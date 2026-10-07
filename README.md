@@ -1,71 +1,60 @@
 # Emanuel "Manny" Walker
 
-Cybersecurity professional, U.S. Army Cyber Warfare Officer, author, and builder.
+👋 Hi, I'm **Emanuel Walker**.
 
-I use this GitHub account for two different things:
+I'm a cybersecurity professional, U.S. Army Cyber Warfare Officer, author, and builder working at the intersection of:
 
-1. **Current original work** I can explain, demo, and defend.
-2. **Older learning forks** I keep for history and reference.
+- cybersecurity
+- cloud security
+- detection engineering
+- applied AI
+- AI agents and automation
+- human-centered technical systems
 
-If you are evaluating my work, start with the current projects below.
+## What I'm building
 
-## Start here
+My current public work focuses on security tools and workflows that another person can actually understand, test, and use.
 
 ### Cyber Portfolio
 
 Six completed projects covering:
 
-- detection engineering
-- AI security
-- SOC prioritization
-- AWS incident response
+- Detection-as-Code
+- prompt-injection-resistant LLM triage
+- crown-jewel alert prioritization
+- AWS identity-focused incident response
 - reusable AI agent skills
-- a local-first Obsidian second brain
+- a local-first Obsidian Second Brain
 
-Repository:
-
+**Repository:**  
 https://github.com/Emanuel-Walker/cyber-portfolio
 
-Interactive site:
-
+**Interactive portfolio:**  
 https://emanuel-walker-cyber.walkwithemanuel.chatgpt.site
 
 ### Obsidian Second Brain
 
-A public, local-first knowledge-system template with agent charters, workflows, security guidance, and a beginner setup path.
+A public guide for building a local Markdown knowledge system with AI-agent workflows, security boundaries, and companion-style memory patterns.
 
 https://github.com/Emanuel-Walker/obsidian-second-brain
 
-## Private build work
+## What I'm interested in
 
-Some of my most experimental work stays private until it works.
+I'm especially interested in projects involving:
 
-That includes hardware, home-lab, detection-range, 3D-printing, and physical companion-agent projects.
+- cyber defense
+- cloud and identity security
+- detection engineering
+- practical AI security
+- agent workflows
+- developer tooling
+- automation that reduces human friction
 
-I do not add theory to my public portfolio as if it were finished work.
+## Collaboration
 
-## Older repositories
+I'm open to collaborating on thoughtful cybersecurity, AI, automation, and open-source projects.
 
-Some older public repositories on this account are forks or learning copies of community projects.
-
-Their READMEs now identify them clearly.
-
-They are not presented as current original portfolio projects.
-
-## Current lane
-
-My current work sits at the intersection of:
-
-```text
-cybersecurity
-cloud security
-detection engineering
-applied AI
-agent workflows
-human-centered automation
-```
-
-I care about systems that are understandable, testable, and actually usable by another person.
+If you reach out, send the problem you are trying to solve and what you have already tried.
 
 ## Credentials
 
@@ -78,6 +67,16 @@ I care about systems that are understandable, testable, and actually usable by a
 
 Author of *UNSHAKEN: Finding God's Strength When Life Trembles*.
 
-## Contact
+## Reach me
 
-The easiest place to evaluate my technical work is the Cyber Portfolio above.
+🌐 https://EmanuelWalker.com
+
+For technical work, GitHub is the best place to start.
+
+## A note about older repositories
+
+Some older repositories on this account are historical forks or learning copies of community projects.
+
+Their READMEs identify that clearly.
+
+If you are evaluating my current technical work, start with the **Cyber Portfolio** above.
