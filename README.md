@@ -2,7 +2,7 @@
 
 👋 Hi, I'm **Emanuel Walker**.
 
-I'm a cybersecurity professional, U.S. Army Cyber Warfare Officer, author, and builder working at the intersection of:
+I'm a cybersecurity professional, author, and builder working at the intersection of:
 
 - cybersecurity
 - cloud security
